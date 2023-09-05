@@ -4069,7 +4069,7 @@ figcaption {
 }
 
 .navbar_logo-link {
-    width: 8.25em;
+    width: 15 em;
 }
 
 .navbar1_dropdown-toggle {
@@ -4127,6 +4127,8 @@ figcaption {
     justify-content: flex-start;
     align-items: center;
     display: flex;
+    height: 20px;
+    width: 20px;
 }
 
 .navbar-menu_col {
