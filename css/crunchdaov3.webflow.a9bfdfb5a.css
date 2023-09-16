@@ -12111,6 +12111,7 @@ figcaption {
         background-color: #00060a;
     }
     .navbar_logo-link {
+        width: 15em;
         width: 6.625rem;
         margin-right: 3.75rem;
     }
@@ -13477,6 +13478,7 @@ figcaption {
         grid-row-gap: .375rem;
     }
     .navbar_logo-link {
+        width: 15em;
         margin-right: 1.375rem;
         padding-left: 0;
     }
